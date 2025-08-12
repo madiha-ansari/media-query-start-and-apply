@@ -1,0 +1,3 @@
+basic syntax media query
+
+sizes
