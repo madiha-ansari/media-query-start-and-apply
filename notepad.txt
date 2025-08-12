@@ -1,5 +1,5 @@
 basic syntax media query
 
-sizes
+ screen sizes
 
 basic syntax of media query
